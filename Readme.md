@@ -17,6 +17,7 @@ Project implemented as part of Semester Project for the Cryptocurrency and Block
 Clone Project
 ```
 git clone git@github.com:is4832/AadharVotingSystem && cd techdot
+After cloning unzip node_modules.zip
 ```
 Install Dependencies
 ```
