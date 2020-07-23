@@ -1,4 +1,4 @@
-# Aadhaar Voting
+# Aadhaar Voting System
 Aadhaar Based voting system using blockchain technology
 Project implemented as part of Semester Project for the Cryptocurrency and Blockchain Technology course at Bennett University.
 
